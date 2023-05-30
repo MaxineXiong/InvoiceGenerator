@@ -24,7 +24,7 @@ The purpose of this tool is to streamline the invoicing procedure and provide a 
 - **Simple invoice management and creation**: Update invoice information in the *Invoice* tab and generate invoices in both PDF and Excel formats with a single click.
 - **Email integration**: Generate a draft email with an attached PDF invoice for efficient customer communication.
 - **Dashboard insights**: Utilize the *Calculations* tab to prepare data for informative charts on the *Dashboard* tab, allowing you to monitor monthly revenue effectively.
-- **Customizable template**: Personalize the invoice template by adding your logo, modify the workbook, or edit the VBA code according to your company's specific requirements.
+- **Customizable template**: Personalize the invoicing template by adding your logo, modify the workbook, or edit the VBA code according to your company's specific requirements.
 
 ## Repository Structure
 
