@@ -11,6 +11,7 @@ The Invoice Generator is an Excel template with a range of VBA programs designed
 - [Requirements](#requirements)
 - [How It Works](#how-it-works)
 - [Customize VBA Code](#customize-vba-code)
+- [Contributing](#Contributing)
 - [License](#license)
 
 ## Purpose
