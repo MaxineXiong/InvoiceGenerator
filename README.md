@@ -88,6 +88,9 @@ To edit the VBA code, open the VBA editor by pressing `Alt + F11` key. This wil
 To access the code related to a particular form control button, right-click the button and choose "Assign Macro" -> "Edit". This will open the VBA editor directly to the code associated with the button, allowing you to modify its functionality. To import a VBA program to your own workbook, open the VBA editor, go to "File" -> "Import File" and select a VBA code file from the downloaded *VBA Code* folder.
 
 
+## Contributing
+
+Contributions to the Invoice Generator Tool are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
 ## License
 
