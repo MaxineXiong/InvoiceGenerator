@@ -1,8 +1,10 @@
 # Invoice Generator with VBA
-[![GitHub][github_badge]][github_link]
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The Invoice Generator is an Excel template with a range of VBA programs designed to automate the process of generating invoices and provide a centralized overview of invoice status. This tool simplifies the administrative tasks involved in invoice management, reducing the time and effort required for invoice creation.
+
+<br/>
 
 ## Table of Contents
 - [Purpose](#purpose)
@@ -14,9 +16,13 @@ The Invoice Generator is an Excel template with a range of VBA programs designed
 - [Contributing](#Contributing)
 - [License](#license)
 
+<br/>
+
 ## Purpose
 
 The purpose of this tool is to streamline the invoicing procedure and provide a comprehensive view of invoice-related information. It aims to make the invoice creation process efficient, taking only a few clicks and 2-3 minutes per invoice, instead of 20-30 minutes. By consolidating invoice data in one place, it allows users to track completed jobs, manage open invoices, and monitor revenue.
+
+<br/>
 
 ## Features
 
@@ -25,6 +31,8 @@ The purpose of this tool is to streamline the invoicing procedure and provide a 
 - **Email integration**: Generate a draft email with an attached PDF invoice for efficient customer communication.
 - **Dashboard insights**: Utilize the *Calculations* tab to prepare data for informative charts on the *Dashboard* tab, allowing you to monitor monthly revenue effectively.
 - **Customizable template**: Personalize the invoicing template by adding your logo, modify the workbook, or edit the VBA code according to your company's specific requirements.
+
+<br/>
 
 ## Repository Structure
 
@@ -40,10 +48,14 @@ The Invoice Generator repository is structured as follows:
 - **README.md**: Provides an overview of this repository.
 - **LICENSE**: The license file for the project.
 
+<br/>
+
 ## Requirements
 
 - Microsoft Excel (version 2010 or later) with macros enabled.
 - Basic knowledge of VBA and Microsoft Excel is recommended to make modifications to the template.
+
+<br/>
 
 ## How It Works
 
@@ -53,6 +65,8 @@ To get started with the Invoice Generator, follow these steps:
 2. **Add Invoice Information**: When receiving a new invoice, enter the relevant information in the *Invoice* tab. Start by entering the customer's name in the **designated orange cell**, then press Enter and choose the appropriate customer from the provided list. Proceed to complete the remaining fields for the invoice.
 3. **Generate Invoices and Email**: To generate invoice files for an open invoice, click on the **Create Invoices** button on the *Invoice* tab. This will present you with a list of open invoices that have a blank status. Choose the desired open invoice and click on "CREATE INVOICE" button within the form. This will automatically populate the invoice template in *Template* tab with relevant information, export the updated invoice template as both PDF and Excel files and store them in two separate folders dedicated to each file format. If you want to generate a draft Outlook email to customer with PDF invoice attached, continues to click on "Create Email" button. This action will create and save the draft emails within your Outlook email application.
 4. **Update the Dashboard**: Performing the actions above will automatically update the *Calculations* tab, which houses the data preparation table used to generate the chart showcased on the *Dashboard* tab.
+
+<br/>
 
 ## Customize VBA Code
 
@@ -90,16 +104,20 @@ To edit the VBA code, open the VBA editor by pressing `Alt + F11` key. This wil
 
 To access the code related to a particular form control button, right-click the button and choose "Assign Macro" -> "Edit". This will open the VBA editor directly to the code associated with the button, allowing you to modify its functionality. To import a VBA program to your own workbook, open the VBA editor, go to "File" -> "Import File" and select a VBA code file from the downloaded *VBA Code* folder.
 
+<br/>
 
 ## Contributing
 
 Contributions to the Invoice Generator Tool are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
+<br/>
+
 ## License
 
 The Invoice Generator Tool is released under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use, modify, and distribute the code in this repository.
 
+<br/>
+
 I hope you find the Invoice Generator tool helpful in simplifying your invoicing process and providing valuable insights into your business.
 
-[github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
-[github_link]: https://github.com/MaxineXiong
+
